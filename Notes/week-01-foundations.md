@@ -25,3 +25,31 @@ End Time: 11am
 - git config --global user.email "swilli81@student.ccp.edu"
 - git commit --amend --reset-author --no-edit
 - git push -u origin main --force
+
+
+## Session 2
+
+Date: 12/15/2025
+Start Time: 11am
+End Time: 12pm
+
+### What I did
+- Created and updated git-practice.txt in my repo.
+- Practiced checking git status, staging, committing, and pushing a change.
+
+### What broke or confused me
+- 
+
+### What I learned or confirmed
+- The normal flow is: change a file → git status → git add → git commit → git push.
+- I can safely practice with a simple text file.
+
+### Commands I used
+- cd ~/AWS-DevOps-Journey
+- ls
+- echo "Git practice $(date)" >> git-practice.txt
+- cat git-practice.txt
+- git status
+- git add git-practice.txt Notes/week-01-foundations.md
+- git commit -m "Week 01 Day 2: git practice file"
+- git push
