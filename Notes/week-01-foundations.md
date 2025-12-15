@@ -53,3 +53,51 @@ End Time: 12pm
 - git add git-practice.txt Notes/week-01-foundations.md
 - git commit -m "Week 01 Day 2: git practice file"
 - git push
+
+## Session 3
+
+Date: 12/15/2025
+
+Start Time:12PM 
+
+End Time:12:30PM
+
+### What I did
+
+- Practiced navigating between home and repo with `cd`, `pwd`, and `ls`.
+- Created a practice folder and files under `practice/fs-lab`.
+- Renamed and copied files, then deleted a copy.
+- Committed and pushed changes to GitHub.
+
+### What broke or confused me
+
+- 
+- 
+
+### What I learned or confirmed
+
+- The difference between `mv` (rename or move) and `cp` (copy).
+- `rm` permanently removes files. Doing `ls` before and after helps verify changes.
+- Comfort moving between `\~` and repo paths using absolute paths.
+
+### Commands I used
+
+- cd ~
+- pwd
+- ls
+- cd ~/AWS-DevOps-Journey
+- pwd
+- ls
+- mkdir -p practice/fs-lab
+- cd practice/fs-lab
+- touch file1.txt file2.txt
+- ls
+- mv file1.txt moved-file1.txt
+- cp file2.txt copy-of-file2.txt
+- ls
+- rm copy-of-file2.txt
+- ls
+- cd ~/AWS-DevOps-Journey
+- git add practice
+- git commit -m "Week 01 Day 3: basic filesystem commands practice"
+- git push
