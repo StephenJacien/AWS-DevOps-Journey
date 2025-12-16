@@ -140,3 +140,34 @@ End Time:1:30PM
 - git add README.md Notes/week-01-foundations.md
 - git commit -m "Week 01 Day 4: improve README documentation"
 - git push
+
+---
+
+## Session 5
+
+Date: 12/16/2025
+Start Time: 12:18 PM
+End Time: 
+
+### What I did
+
+- Updated README.md with a clear repo overview and structure sections (Notes, Summaries, Projects, Screenshots).
+- Completed Week 1 weekly summary at Summaries/week-01-summary.md.
+- Finalized the Week 1 note content for Sessions 1–5 and ensured formatting is consistent.
+- Prepared for close‑out (commit, push, and Notion updates).
+
+### What broke or confused me
+
+- None major today; focus was documentation and close‑out.
+- Minor: verifying that the README structure accurately reflects current folders.
+
+### What I learned or confirmed
+
+- Keeping README and weekly notes in sync creates a clear public proof of work.
+- The end‑of‑week flow: update notes/summary → commit/push → mark Notion row as Done.
+
+### Commands I used
+
+- git add README.md Summaries/week-01-summary.md Notes/week-01-foundations.md
+- git commit -m "Week 01: finalize notes and summary"
+- git push
