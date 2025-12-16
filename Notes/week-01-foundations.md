@@ -101,3 +101,42 @@ End Time:12:30PM
 - git add practice
 - git commit -m "Week 01 Day 3: basic filesystem commands practice"
 - git push
+
+---
+
+## Session 4
+
+Date: 12/16/2025
+
+Start Time:1PM 
+
+End Time:1:30PM
+
+### What I did
+
+- Opened `README.md` in my repo to describe the purpose of this project.
+- Documented the basic folder structure (Notes, Summaries, Projects, Screenshots).
+- Added a short “Week 01 – Foundations” section summarizing what I accomplished this week.
+- Saved the changes, then committed and pushed the updated README to GitHub.
+
+### What broke or confused me
+
+- 
+- 
+
+### What I learned or confirmed
+
+- The README is the landing page for my repo and should explain what this journey is about.
+- Using Markdown headings and bullet points makes the README easier to scan on GitHub.
+- Documentation changes follow the exact same workflow as code: edit → `git status` → `git add` → `git commit` → `git push`.
+
+### Commands I used
+
+- cd ~/AWS-DevOps-Journey
+- ls
+- git status
+- (Opened README.md in my editor)
+- git status
+- git add README.md Notes/week-01-foundations.md
+- git commit -m "Week 01 Day 4: improve README documentation"
+- git push
